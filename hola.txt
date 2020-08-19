@@ -18,8 +18,17 @@ git push -u origin master
 
 
 
+# 1 agregar los archivos al repositorio
+git add .
 
+# 2 confirmar los cambios
+git commit -m "<MENSAJE COMMIT>" 
 
+# 3 Actualizar los cambios en servidor de gitHub
+git push
+
+#4 Cambiar de rama
+git checkout -b <nombre_nueva_rama>
 
 
 
