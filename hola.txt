@@ -1,1 +1,30 @@
 Curso PHP MYSQL
+
+
+git config user.name "Lennin"
+git config user.email "lennin.hernandez@algo.com"
+ 
+git commit -m "mensaje"
+
+
+
+https://github.com
+
+
+git remote add origin https://github.com/LenninHernandezUes/cursophp_ejercicio1.git
+
+
+git push -u origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
